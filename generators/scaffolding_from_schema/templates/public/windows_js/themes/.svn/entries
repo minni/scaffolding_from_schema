@@ -1,0 +1,70 @@
+8
+
+dir
+9
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms/trunk/scaffolding_from_schema/generators/scaffolding_from_schema/templates/public/windows_js/themes
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms
+
+
+
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+
+svn:special svn:externals svn:needs-lock
+
+mac_os_x.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+143720cb72bed25638edd1d4e0438eb9
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+default
+dir
+
+mac_os_x
+dir
+
+alert_lite.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+f97853560f371cd55c57ed20da4bb681
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+default.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+5ebcd698ca945af0fb5e23709583d390
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+debug.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+9f2800df3f3b0ec944ad6d80ddededfc
+2008-08-31T11:15:16.859271Z
+9
+minni
+

@@ -1,0 +1,64 @@
+8
+
+dir
+9
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms/trunk/scaffolding_from_schema/generators/scaffolding_from_schema/templates/public/javascripts
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms
+
+
+
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+
+svn:special svn:externals svn:needs-lock
+
+rico_corner.js
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+bd70351d530939b497e8221bbc9eff67
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+streamlined.js
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+61ca67df6bfe3ab0a5fc9f1e11909e03
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+tabber.js
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+5ea389226639bea847bc1050dccac614
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+tabber-minimized.js
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+78a8bca1c5606e9bcbf581ae34268f74
+2008-08-31T11:15:16.859271Z
+9
+minni
+

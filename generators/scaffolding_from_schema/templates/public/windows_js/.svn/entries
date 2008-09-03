@@ -1,0 +1,46 @@
+8
+
+dir
+9
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms/trunk/scaffolding_from_schema/generators/scaffolding_from_schema/templates/public/windows_js
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms
+
+
+
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+
+svn:special svn:externals svn:needs-lock
+
+themes
+dir
+
+javascripts
+dir
+
+MIT-LICENSE
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+a839f717f1675b571481268a4e4a4ee2
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+README
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+a34c90c84c2ef9fa57110c9de31ec6b6
+2008-08-31T11:15:16.859271Z
+9
+minni
+

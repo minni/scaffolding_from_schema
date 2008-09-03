@@ -1,0 +1,15 @@
+Description:
+    Scaffolding FROM schema.rb
+
+	RailsConfEurope 2008
+
+Example:
+    ./script/generate scaffolding_from_schema [all|table1 table2 table3 ...]
+
+    This will create:
+	1. Migrations
+	2. Models
+    3. Controllers
+	4. Layout
+	5. application_helper
+	6. application_controller

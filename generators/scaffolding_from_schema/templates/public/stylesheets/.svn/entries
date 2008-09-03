@@ -1,0 +1,64 @@
+8
+
+dir
+9
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms/trunk/scaffolding_from_schema/generators/scaffolding_from_schema/templates/public/stylesheets
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms
+
+
+
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+
+svn:special svn:externals svn:needs-lock
+
+tabber.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+1cc96ce4c31e5e863d0d835116281970
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+as_style.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+2fbc35badfa3de1599ff40f79c721ffc
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+menu.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+97414dbc1807f4bd48abbdbee6e33f17
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+streamlined.css
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+daee7f75ea804418fe94a623b9f599df
+2008-08-31T11:15:16.859271Z
+9
+minni
+

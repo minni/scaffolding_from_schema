@@ -1,0 +1,35 @@
+<html>
+<head>
+	<title><%%= @title %></title>
+	<%%= javascript_include_tag :defaults,
+		'streamlined',
+		'/windows_js/javascripts/window',
+		'/overlib/overlib',
+		'tabber',
+		'tabber-minimized' %>
+	<%%= active_scaffold_includes %>
+
+	<%%= stylesheet_link_tag '/windows_js/themes/mac_os_x',
+		'/windows_js/themes/default',
+		'as_style',
+		'streamlined',
+		'menu',
+		'tabber' %>
+</head>
+<body>
+	<div id="header">
+		<span id="branding"><%%= @app_title %></span>
+	  	<div id="top_nav"><%%= render(:partial => '/layouts/top_menu') %></div>
+	</div>
+	 <div id="left">
+	   <%%= render(:partial => "/layouts/side_menu") %>
+	 </div>
+	 <div id="center">
+	   <%%= image_tag 'streamlined/loading.gif', :id=>'spinner', :style=>"display:none;" %>
+	   <div id="content_for_layout"><%%= @content_for_layout %></div>
+	 </div>
+	<div id="footer">
+	  <%%= @app_footer %>
+	</div>
+</body>
+</html>

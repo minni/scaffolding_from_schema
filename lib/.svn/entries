@@ -1,0 +1,64 @@
+8
+
+dir
+9
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms/trunk/scaffolding_from_schema/lib
+svn+ssh://minni@rubyforge.org/var/svn/acts-as-cms
+
+
+
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+
+svn:special svn:externals svn:needs-lock
+
+scaffolding_from_schema.rb
+file
+16
+
+
+
+2008-09-02T09:23:09.000000Z
+448233c496693fc8df35637cacd58fa6
+2008-09-02T09:23:44.580851Z
+16
+minni
+
+sfs_table.rb
+file
+16
+
+
+
+2008-09-02T09:22:52.000000Z
+a54be2f5321723a50a07e25fe8db2b04
+2008-09-02T09:23:44.580851Z
+16
+minni
+
+sfs_active_record_schema.rb
+file
+
+
+
+
+2008-08-31T11:50:36.000000Z
+f89b35c0f0b793f5b080325be1b4a15f
+2008-08-31T11:15:16.859271Z
+9
+minni
+
+sfs_column.rb
+file
+22
+
+
+
+2008-09-03T10:28:51.000000Z
+a59f2917fc737b0851e1f5439e2a664a
+2008-09-03T10:29:01.015080Z
+22
+minni
+
